@@ -1,2 +1,2 @@
 # say-what
-A Discord bot written in NodeJS
+A Discord bot that moderates chats, written in NodeJS
