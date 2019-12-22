@@ -1,0 +1,10 @@
+{
+  "name": "say-what",
+  "version": "0.1.0",
+  "description": "A Discord bot that moderates chats for bad words",
+  "main": "index.js",
+  "repository": "https://github.com/tahir-u/say-what.git",
+  "author": "tahir-u <tahiru1994@outlook.com>",
+  "license": "MIT",
+  "private": false
+}
